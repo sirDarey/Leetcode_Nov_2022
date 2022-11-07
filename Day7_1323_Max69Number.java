@@ -7,7 +7,7 @@ package leetcodeNov2022;
  *
  */
 
-class _1323_Max69Number {
+class Day7_1323_Max69Number {
     
     public int maximum69Number (int num) {
         String numString = String.valueOf(num);

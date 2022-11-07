@@ -12,7 +12,7 @@ import java.util.Stack;
  *
  */
 
-class _345_ReverseVowelsOfAString {
+class Day4_345_ReverseVowelsOfAString {
     
     public String reverseVowels(String s) {
         char [] sArray = s.toCharArray();
